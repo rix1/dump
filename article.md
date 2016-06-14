@@ -1,6 +1,6 @@
-Hei Rikard! 
-Her er sitatsjekken for artikkelen jeg skriver. Har du mulighet til å gi tilbakemelding innen mandag er omme, for eksempel? I en del av sitatene dine har jeg rettet opp i språk og formuleringer, men budskapet skal være det samme. Si i fra hvis du ser noen grove feil, så retter jeg opp i det! :) Det kan hende at noen av avsnittene blir kuttet hvis teksten er for lang, men dette er foreløpig slik det blir.
-Ett spørsmål bare: hva heter mastergraden du har tatt?
+*Hva heter mastergraden du har tatt?*
+
+Jeg har gått et 2-årig masterprogram i programvaresystemer ved Institutt for Institutt for Datateknikk og informasjonteknologi.
 
 
 – Slik jeg ser det har jeg tre gode muligheter. Den ene muligheten er å jobbe i konsulentselskapet i Oslo som tilbød meg jobb for ett år siden. En annen vei å gå er å jobbe for DNB, som tilbød meg og flere andre studenter jobb etter vi hadde vært med i en idékonkurranse de arrangerte. Den tredje muligheten er å jobbe frilans eller stifte et eget selskap, hvor man kan jobbe prosjektbasert og utvikle IT-løsninger for ulike bedrifter. Rent økonomisk er det nesten mer lønnsomt å jobbe slik enn å bli ansatt i en bedrift, da man kan styre timeprisen selv, sier Eide.
