@@ -3,36 +3,27 @@
 Jeg har gått et 2-årig masterprogram i programvaresystemer ved Institutt for Institutt for Datateknikk og informasjonteknologi.
 
 
-– Slik jeg ser det har jeg tre gode muligheter. Den ene muligheten er å jobbe i konsulentselskapet i Oslo som tilbød meg jobb for ett år siden. En annen vei å gå er å jobbe for DNB, som tilbød meg og flere andre studenter jobb etter vi hadde vært med i en idékonkurranse de arrangerte. Den tredje muligheten er å jobbe frilans eller stifte et eget selskap, hvor man kan jobbe prosjektbasert og utvikle IT-løsninger for ulike bedrifter. Rent økonomisk er det nesten mer lønnsomt å jobbe slik enn å bli ansatt i en bedrift, da man kan styre timeprisen selv, sier Eide.
-
-
+– Slik jeg ser det har jeg tre gode muligheter. Den mest åpenbare er å jobbe i konsulentselskapet i Oslo hvor jeg signerte i fjor høst. En annen vei å gå er å jobbe for DNB, som tilbød laget mitt jobb etter vi hadde vært med i DNB Digital Challenge. Den tredje muligheten er å jobbe frilans eller stifte et eget selskap, hvor man kan jobbe prosjektbasert og utvikle IT-løsninger for ulike bedrifter. Rent økonomisk er det nesten mer lønnsomt å jobbe slik enn å bli ansatt i en større bedrift. Man må være villig til å gamble, men er man heldig kan man tilby svært konkurransedyktige priser og likevel sitte igjen med mesteparten selv.
 
 Rekruttering ett år i forkant
 
-Eide forteller at linjeforeningene ved hans fagfelt arrangerer IT-dager og karrieredager, hvor arbeidsgivere flyr til Trondheim for å sikre seg de beste studentene. Det var her han kom i kontakt med selskapet Bekk hvor han samme høst fikk jobbtilbud. 
+Eide forteller at linjeforeningene ved hans fagfelt arrangerer IT-dager og karrieredager, hvor arbeidsgivere flyr til Trondheim for å sikre seg de beste studentene. Det var her han kom i kontakt med selskapet BEKK hvor han samme høst fikk jobbtilbud.
 
-– Under IT-dagene kommer det tonnevis av bedrifter for å holde foredrag, workshops og stands. Her har mange fra næringslivet speedintervjuer med studenter, for eksempel, og de prøver å komme i kontakt med studentene for å selge seg selv. Det er kanskje på grunn av dette det er mye rekrutteringskjør på høsten. Fristene for å søke jobb for året etterpå, når man er ferdig med mastergraden, ligger rundt september og oktober. Hvert år blir søknadsfristene gjerne fremskyvet, så fristene går tidligere ut, dette fordi selskapene ønsker å sikre deg de beste kandidatene, og det er dermed en del konkurranse i markedet for bedriftene, sier Eide.
-
+– Under IT-dagene kommer det tonnevis av IT-bedrifter for å holde foredrag, kurs og stands. Mange fra næringslivet benytter anledningen til å avholde speedintervjuer med studenter. Det er kanskje på grunn av dette det er mye rekrutteringskjør på høsten. Dessuten blir gjerne fristene for å søke både fast jobb og sommerjobb for året etterpå, lagt rundt september og oktober. Det virker som søknadsfristene blir fremskyvet hver år, så fristene går tidligere ut. Jeg tror dette er fordi selskapene ønsker å sikre deg de beste kandidatene, og det er dermed en del konkurranse i markedet for bedriftene, sier Eide.
 
 
 Fikk jobb etter å ha tatt av seg lua
 
-Eide ble invitert på intervju hos konsulentsleskapet Bekk, hvor representanter fra selskapet reiste til Trondheim for å ta en prat med de aktuelle kandidatene. 
-– Ved førstegangsintervjuet kommer gjerne selskapet opp hit fra Oslo og holder en hel del intervjuer i løpet av kanskje to dager. Videre ble jeg invitert på andregangsintervju i Oslo, hvor jeg  hadde to intervjuer; et teknisk for å teste ferdigheter og et ikke-teknisk med fokus på personlighet, sier Eide. 
+Eide ble invitert på intervju hos konsulentsleskapet BEKK, hvor representanter fra selskapet reiste til Trondheim for å ta en prat med de aktuelle kandidatene. 
+– Ved førstegangsintervjuet kommer gjerne selskapet opp hit fra Oslo og holder intervjuer med aktuelle kandidater i løpet av kanskje to dager. Videre ble jeg invitert på andregangsintervju i Oslo, hvor jeg i løpet av én dag hadde to intervjuer; et teknisk for å teste ferdigheter og et ikke-teknisk med fokus på personlighet, sier Eide. 
 
+– Jeg ble oppringt av BEKK, som syntes jeg hadde gjort det bra på intervjuene, men ønsket meg ned til Oslo for et siste intervju fordi de var litt usikre på konsulentprofilen min. Rett før vi la på la de til «hvis jeg bare kunne komme med et lite tips, så ville jeg anbefalt deg å ta av lua», ler Eide. 
 
-
-– Jeg ble oppringt av Bekk, som syntes jeg hadde gjort det bra på intervjuene, men ønsket meg ned til Oslo for et siste intervju fordi de var litt usikre på konsulentprofilen min. Rett før vi la på sa de «hvis jeg bare kunne komme med et lite tips, så ville jeg kanskje bare anbefalt deg å ta av lua», ler Eide. 
-
-Han forklarer at intervjuene var på vinteren, og at han derfor hadde på lue. 
-
-– Jeg følte meg veldig dum når jeg tenkte over det; jeg var kanskje litt for «casual» og komfortabel på intervjuene, men selvfølgelig er det «common sence» å te seg og oppføre seg. Det var bare ikke noe jeg hadde tenkt over. Når jeg traff dem neste gang møtte jeg opp nyklipt og uten lue. Til slutt ble jeg heldigvis tilbudt jobb.
-
-
+– Jeg følte meg veldig dum da det slo meg; men det illustrerer kanskje kontrastene mellom student- og arbeidslivet. Jeg var litt for «casual» og komfortabel på intervjuene, men selvfølgelig er det «common sense» - man må te seg og oppføre seg, spesielt på et jobbintervju. Det var nok bare en glipp fra min side. Da jeg traff dem neste gang møtte jeg opp nyklipt og uten lue. Til slutt ble jeg heldigvis tilbudt jobb.
 
 Godt arbeidsmarked for IT-konsulenter
 
-– Bedrifter er stadig på jakt etter IT-konsulenter. Vi har fått tilbakemelding på at det er mangel på gode utviklere, eller utviklere som er i stand til å gjøre det som trengs. Flere selskap er veldig på jakt etter programmerere. Folk er også villig til å betale godt nok for arbeidet vi gjør, sier Eide.
+– Bedrifter er stadig på jakt etter IT-utviklere. Vi har fått tilbakemelding på at det er mangel på gode utviklere. Flere selskap er veldig på jakt etter programmerere. Folk er også villige til å betale godt nok for arbeidet vi gjør, sier Eide.
 
 Hvorfor tror du arbeidsmarkedet er som det er i din bransje?
 
